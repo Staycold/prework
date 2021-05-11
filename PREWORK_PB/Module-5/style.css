@@ -1,0 +1,53 @@
+h1 {
+    text-align:center;
+}
+
+#red {
+    color: crimson;
+}
+
+#blue {
+    color: darkblue;
+}
+
+#green {
+    color: darkgreen;
+}
+
+#big {
+    font-size: xx-large;
+}
+
+#tiny {
+    font-size: xx-small;
+}
+
+#centered {
+    text-align:center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#fonts {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#multi {
+    font-size: xx-large; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color: darkorange; 
+    font-weight: bolder;
+}
+
+.styledFont { 
+    color: rgb(64, 199, 31);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+}
+
+#styledImage {
+    border:goldenrod 8px solid;
+
+}

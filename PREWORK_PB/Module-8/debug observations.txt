@@ -1,0 +1,16 @@
+So for the Module 8 acvtitiy, there were a lot of things wrong or missing.
+
+I found that:   1)The colours for the buttons didn't match the colour effect. 
+		2)The "Boo the dog heading was missing <h1></h1>.
+		3)There were no clearly seperated paraghaphs in the About Boo section. 
+		4)The link in the About Boo section was missing. ( A description is not a link)
+		5)The Boo image was missing the <> around the img file.
+		6)The Random Boo Facts were not seperated properly with ".
+		7)The link to the js file was incorrect. Where logic.js should have been it was written errors.js ( hah)
+		8)In the logic.js file the colour pink was missing quotes. 
+		8)The list of Boo's favourite things wasn't idetified properly, was missing the <li></li>.
+		10)The "quotes were missing on the click to make the box grow and shrink in the logic.js
+		
+		a)I commented out the instructions box.
+		b)I fixed some of the spacing of the code to make it more legible.
+		c)I added some comments in the js file to explain what certain things do. 		
